@@ -1,6 +1,8 @@
 # cv-htmlpage
-# My Cv website This repository contains my personal cv tempalte. 
+#= My Cv website This repository contains my personal cv tempalte. 
 -simple and elegant desin
 - Easy to update as my career progresses
 - SEO and social media meta tags for better visibility
 -  Favicon is add to the html
+  Project URL
+[View my CV Website](https://rishitha720.github.io/cv-htmlpage/)
