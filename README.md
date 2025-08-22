@@ -5,4 +5,5 @@
 - SEO and social media meta tags for better visibility
 -  Favicon is add to the html
   Project URL
-[View my CV Website](https://rishitha720.github.io/cv-htmlpage/)
+[View my CV Website]
+(https://github.com/rishitha720/cv-htmlpage)
