@@ -6,4 +6,4 @@
 -  Favicon is add to the html
   Project URL
 [View my CV Website]
-(https://github.com/rishitha720/cv-htmlpage)
+  (https://roadmap.sh/projects/single-page-cv) 
